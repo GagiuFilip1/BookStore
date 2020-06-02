@@ -1,0 +1,18 @@
+C:\Users\Filip\RiderProjects\Bookstore\BookStore.Core\bin\Debug\netcoreapp3.1\BookStore.Core.deps.json
+C:\Users\Filip\RiderProjects\Bookstore\BookStore.Core\bin\Debug\netcoreapp3.1\BookStore.Core.dll
+C:\Users\Filip\RiderProjects\Bookstore\BookStore.Core\bin\Debug\netcoreapp3.1\BookStore.Core.pdb
+C:\Users\Filip\RiderProjects\Bookstore\BookStore.Core\obj\Debug\netcoreapp3.1\BookStore.Core.csprojAssemblyReference.cache
+C:\Users\Filip\RiderProjects\Bookstore\BookStore.Core\obj\Debug\netcoreapp3.1\BookStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\Filip\RiderProjects\Bookstore\BookStore.Core\obj\Debug\netcoreapp3.1\BookStore.Core.AssemblyInfoInputs.cache
+C:\Users\Filip\RiderProjects\Bookstore\BookStore.Core\obj\Debug\netcoreapp3.1\BookStore.Core.AssemblyInfo.cs
+C:\Users\Filip\RiderProjects\Bookstore\BookStore.Core\obj\Debug\netcoreapp3.1\BookStore.Core.dll
+C:\Users\Filip\RiderProjects\Bookstore\BookStore.Core\obj\Debug\netcoreapp3.1\BookStore.Core.pdb
+C:\Users\Diana\Documents\BookStore (1)\BookStore\BookStore.Core\bin\Debug\netcoreapp3.1\BookStore.Core.deps.json
+C:\Users\Diana\Documents\BookStore (1)\BookStore\BookStore.Core\bin\Debug\netcoreapp3.1\BookStore.Core.dll
+C:\Users\Diana\Documents\BookStore (1)\BookStore\BookStore.Core\bin\Debug\netcoreapp3.1\BookStore.Core.pdb
+C:\Users\Diana\Documents\BookStore (1)\BookStore\BookStore.Core\obj\Debug\netcoreapp3.1\BookStore.Core.csprojAssemblyReference.cache
+C:\Users\Diana\Documents\BookStore (1)\BookStore\BookStore.Core\obj\Debug\netcoreapp3.1\BookStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Documents\BookStore (1)\BookStore\BookStore.Core\obj\Debug\netcoreapp3.1\BookStore.Core.AssemblyInfoInputs.cache
+C:\Users\Diana\Documents\BookStore (1)\BookStore\BookStore.Core\obj\Debug\netcoreapp3.1\BookStore.Core.AssemblyInfo.cs
+C:\Users\Diana\Documents\BookStore (1)\BookStore\BookStore.Core\obj\Debug\netcoreapp3.1\BookStore.Core.dll
+C:\Users\Diana\Documents\BookStore (1)\BookStore\BookStore.Core\obj\Debug\netcoreapp3.1\BookStore.Core.pdb

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Diana\.nuget\packages\nlog.config\4.7.0\contentFiles\any\any\nlog.config" t="Include" />
+    <e p="C:\Users\Diana\.nuget\packages\nlog.schema\4.7.0\contentFiles\any\any\NLog.xsd" t="Include" />
+    <e p="C:\Users\Diana\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Diana\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Diana\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Diana\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_BookStore.1261270912.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Diana\Documents\BookStore (1)\Bookstore" t="IncludeFlat">
+      <e p="BookStore.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BookStore.Core.csproj" t="IncludeRecursive" />
+        <e p="Common" t="Include">
+          <e p="IIdentifier.cs" t="Include" />
+          <e p="Ordering.cs" t="Include" />
+          <e p="Pagination.cs" t="Include" />
+          <e p="Requests" t="Include">
+            <e p="Commons" t="Include">
+              <e p="IFilter.cs" t="Include" />
+              <e p="Response.cs" t="Include" />
+              <e p="SearchRequest.cs" t="Include" />
+            </e>
+            <e p="UserRequests" t="Include">
+              <e p="DeleteUserRequest.cs" t="Include" />
+              <e p="LoginRequest.cs" t="Include" />
+              <e p="RegisterUserRequest.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Enums" t="Include">
+          <e p="BookState.cs" t="Include" />
+          <e p="UserType.cs" t="Include" />
+        </e>
+        <e p="extensions" t="Include">
+          <e p="DataContextExtensions.cs" t="Include" />
+          <e p="QueryableExtensions.cs" t="Include" />
+          <e p="StringExtensions.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Book.cs" t="Include" />
+            <e p="Librarian.cs" t="Include" />
+            <e p="Subscriber.cs" t="Include" />
+            <e p="User.cs" t="Include" />
+          </e>
+          <e p="Filters" t="Include">
+            <e p="BookFilter.cs" t="Include" />
+            <e p="UserFilter.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BookStore.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="Interfaces" t="Include">
+            <e p="IBookRepository.cs" t="Include" />
+            <e p="IUserRepository.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Services" t="Include">
+          <e p="Interfaces" t="Include">
+            <e p="IBookService.cs" t="Include" />
+            <e p="IUserService.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="BookStore.Infrastructure" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BookStore.Infrastructure.csproj" t="IncludeRecursive" />
+        <e p="Data" t="Include">
+          <e p="DataContext.cs" t="Include" />
+        </e>
+        <e p="Ioc" t="Include">
+          <e p="RegistrationKindAttribute.cs" t="Include" />
+          <e p="RegistrationType.cs" t="Include" />
+          <e p="ServiceCollectionExtensions.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BookStore.Infrastructure.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="Implementations" t="Include">
+            <e p="BookRepository.cs" t="Include" />
+            <e p="UserRepository.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Services" t="Include">
+          <e p="Implementations" t="Include">
+            <e p="BookService.cs" t="Include" />
+            <e p="UserService.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="BookStore.Presentation" t="IncludeRecursive">
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BookStore.Presentation.csproj" t="IncludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="Implementations" t="Include">
+            <e p="BookController.cs" t="Include" />
+            <e p="UserController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20200531184212_Initial.cs" t="Include" />
+          <e p="20200531184212_Initial.Designer.cs" t="Include" />
+          <e p="DataContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BookStore.Presentation.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="BookStore.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

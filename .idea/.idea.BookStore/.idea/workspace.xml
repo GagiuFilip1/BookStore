@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3533aaed-60df-4ea4-b8b7-d89592a2ee64" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/657B2BF7-95E5-4570-A29C-F9556A5277CB/48/1f96933a/IQueryable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Enums/UserType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Enums/BookState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Common/Pagination.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Common/IIdentifier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Common/Ordering.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Infrastructure/Ioc/RegistrationKindAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Infrastructure/Ioc/ServiceCollectionExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Common/Requests/Commons/IFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Common/Requests/Commons/Response.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Common/Requests/Commons/SearchRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Common/Requests/UserRequests/RegisterUserRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Common/Requests/UserRequests/LoginRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Common/Requests/UserRequests/DeleteUserRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Models/Filters/BookFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Models/Filters/UserFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Models/Entities/Librarian.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Models/Entities/Book.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Models/Entities/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Models/Entities/Subscriber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Services/Interfaces/IBookService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Services/Interfaces/IUserService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Extensions/QueryableExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Extensions/DataContextExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Infrastructure/Data/DataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Extensions/StringExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F2ACE85F-6C10-49DB-8CAC-F03079CCDA72/11/ActionResultOfT.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Infrastructure/Services/Implementations/BookService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Presentation/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Infrastructure/Services/Implementations/UserService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Repositories/Interfaces/IBookRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Core/Repositories/Interfaces/IUserRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Infrastructure/Repositories/Implementations/BookRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Presentation/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Infrastructure/Repositories/Implementations/UserRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Presentation/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Presentation/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/.nuget/packages/nlog.config/4.7.0/contentFiles/any/any/NLog.config" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Presentation/Controllers/Implementations/BookController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookStore.Presentation/Controllers/Implementations/UserController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BookStore.Infrastructure/Requests/UserRequests/RegisterUserRequest.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Infrastructure/Common/Ordering.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Infrastructure/Requests/Commons/Response.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Core/Models/Filters/UserFilter.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Infrastructure/Requests/Commons/IFilter.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Infrastructure/Requests/Commons/SearchRequest.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Core/Repositories/Implementations/UserRepository.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Core/Services/Implementations/UserService.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Controllers/Implementations/UsersController.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Infrastructure/Requests/UserRequests/SearchRequest.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Infrastructure/Requests/UserRequests/DeleteUserRequest.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Startup.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Startup.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Controllers/Implementations/UsersController.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Controllers/Implementations/UsersController.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Controllers/Implementations/Subscriber.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Controllers/Implementations/SubscriberController.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Controllers/Implementations/LibrarianController.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Infrastructure/Ioc/ServiceCollectionExtensions.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Startup.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Core/Common/IIdentifier.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Infrastructure/Data/DataContext.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Core/Services/Interfaces/IUserRepository.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Core/Repositories/Interfaces/IUserRepository.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Core/Repositories/Interfaces/IBookRepository.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Core/Common/Requests/BookRequests.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Startup.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Infrastructure/Ioc/ServiceCollectionExtensions.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Core/Models/Entities/User.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Infrastructure/Data/DataContext.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Migrations/20200426185804_AddUserTable.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Migrations/20200531141611_AddBookModel.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/appsettings.json" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Startup.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Startup.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Infrastructure/Repositories/Implementations/UserRepository.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Infrastructure/Repositories/Implementations/UserRepository.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Core/Models/Entities/Book.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Core/Common/Requests/Commons/SearchRequest.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Core/Services/Interfaces/IUserService.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Core/Services/Interfaces/IBookService.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Infrastructure/Services/Implementations/BookService.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Infrastructure/Services/Implementations/UserService.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Infrastructure/Services/Implementations/UserService.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Infrastructure/Repositories/Implementations/BookRepository.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Core/Enums/BookState.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Core/Models/Filters/BookFilter.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Controllers/Implementations/BookController.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Controllers/Implementations/UserController.cs" />
+        <option value="$PROJECT_DIR$/BookStore.Presentation/Controllers/Implementations/UserController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b2e0akBun1CevNE99jduPrYzsK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.BookStore.Presentation">
+    <configuration name="BookStore.Presentation" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/BookStore.Presentation/BookStore.Presentation.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="BookStore.Presentation" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookStore.Presentation: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/BookStore.Presentation/BookStore.Presentation.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3533aaed-60df-4ea4-b8b7-d89592a2ee64" name="Default Changelist" comment="" />
+      <created>1587834394718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587834394718</updated>
+      <workItem from="1587834397431" duration="5313000" />
+      <workItem from="1587840209834" duration="5100000" />
+      <workItem from="1587919635410" duration="19696000" />
+      <workItem from="1588089295967" duration="4563000" />
+      <workItem from="1588354528705" duration="2068000" />
+      <workItem from="1588368013738" duration="3445000" />
+      <workItem from="1588438410831" duration="3008000" />
+      <workItem from="1588599099096" duration="4195000" />
+      <workItem from="1589479786361" duration="1492000" />
+      <workItem from="1589892905570" duration="2787000" />
+      <workItem from="1590922000151" duration="2176000" />
+      <workItem from="1590928433655" duration="4107000" />
+      <workItem from="1590935082017" duration="26285000" />
+      <workItem from="1591088023607" duration="1294000" />
+      <workItem from="1591111263789" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="636" y="209" width="888" height="594" key="#xdebugger.evaluate" timestamp="1590956223383">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state x="636" y="209" key="#xdebugger.evaluate/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590956223383" />
+    <state x="636" y="209" key="#xdebugger.evaluate/0.0.1707.929@0.0.1707.929" timestamp="1590939001016" />
+    <state x="715" y="243" width="888" height="594" key="#xdebugger.evaluate/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1587921681801" />
+    <state width="627" height="401" key="DebuggerActiveHint" timestamp="1590955966298">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="627" height="401" key="DebuggerActiveHint/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590955966298" />
+    <state width="627" height="401" key="DebuggerActiveHint/0.0.1707.929@0.0.1707.929" timestamp="1590941055273" />
+    <state width="705" height="466" key="DebuggerActiveHint/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588010008450" />
+    <state width="1877" height="242" key="GridCell.Tab.0.bottom" timestamp="1591098895086">
+      <screen x="2560" y="113" width="1920" height="1050" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588354624630" />
+    <state width="1129" height="245" key="GridCell.Tab.0.bottom/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1591044622718" />
+    <state width="1877" height="242" key="GridCell.Tab.0.bottom/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1591098895086" />
+    <state width="1663" height="245" key="GridCell.Tab.0.bottom/0.0.1707.929@0.0.1707.929" timestamp="1590942339825" />
+    <state width="1493" height="167" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1536.864@-1920.0.1536.864" timestamp="1588447316950" />
+    <state width="1877" height="221" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588620704906" />
+    <state width="1877" height="242" key="GridCell.Tab.0.center" timestamp="1591098895086">
+      <screen x="2560" y="113" width="1920" height="1050" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1588354624630" />
+    <state width="1129" height="245" key="GridCell.Tab.0.center/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1591044622716" />
+    <state width="1877" height="242" key="GridCell.Tab.0.center/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1591098895086" />
+    <state width="1663" height="245" key="GridCell.Tab.0.center/0.0.1707.929@0.0.1707.929" timestamp="1590942339825" />
+    <state width="1493" height="167" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1536.864@-1920.0.1536.864" timestamp="1588447316950" />
+    <state width="1877" height="221" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588620704906" />
+    <state width="1877" height="242" key="GridCell.Tab.0.left" timestamp="1591098895086">
+      <screen x="2560" y="113" width="1920" height="1050" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1588354624630" />
+    <state width="1129" height="245" key="GridCell.Tab.0.left/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1591044622712" />
+    <state width="1877" height="242" key="GridCell.Tab.0.left/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1591098895086" />
+    <state width="1663" height="245" key="GridCell.Tab.0.left/0.0.1707.929@0.0.1707.929" timestamp="1590942339825" />
+    <state width="1493" height="167" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1536.864@-1920.0.1536.864" timestamp="1588447316950" />
+    <state width="1877" height="221" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588620704906" />
+    <state width="1877" height="242" key="GridCell.Tab.0.right" timestamp="1591098895086">
+      <screen x="2560" y="113" width="1920" height="1050" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1588354624630" />
+    <state width="1129" height="245" key="GridCell.Tab.0.right/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1591044622716" />
+    <state width="1877" height="242" key="GridCell.Tab.0.right/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1591098895086" />
+    <state width="1663" height="245" key="GridCell.Tab.0.right/0.0.1707.929@0.0.1707.929" timestamp="1590942339825" />
+    <state width="1493" height="167" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1536.864@-1920.0.1536.864" timestamp="1588447316950" />
+    <state width="1877" height="221" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588620704906" />
+    <state width="1663" height="304" key="GridCell.Tab.1.bottom" timestamp="1590956246942">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="304" key="GridCell.Tab.1.bottom/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590956246942" />
+    <state width="1663" height="304" key="GridCell.Tab.1.bottom/0.0.1707.929@0.0.1707.929" timestamp="1590941180337" />
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588082893934" />
+    <state width="1663" height="304" key="GridCell.Tab.1.center" timestamp="1590956246942">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="304" key="GridCell.Tab.1.center/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590956246942" />
+    <state width="1663" height="304" key="GridCell.Tab.1.center/0.0.1707.929@0.0.1707.929" timestamp="1590941180336" />
+    <state width="1877" height="363" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588082893934" />
+    <state width="1663" height="304" key="GridCell.Tab.1.left" timestamp="1590956246942">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="304" key="GridCell.Tab.1.left/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590956246942" />
+    <state width="1663" height="304" key="GridCell.Tab.1.left/0.0.1707.929@0.0.1707.929" timestamp="1590941180336" />
+    <state width="1877" height="363" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588082893934" />
+    <state width="1663" height="304" key="GridCell.Tab.1.right" timestamp="1590956246942">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="304" key="GridCell.Tab.1.right/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590956246942" />
+    <state width="1663" height="304" key="GridCell.Tab.1.right/0.0.1707.929@0.0.1707.929" timestamp="1590941180336" />
+    <state width="1877" height="363" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588082893934" />
+    <state width="1663" height="304" key="GridCell.Tab.2.bottom" timestamp="1590956246943">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="304" key="GridCell.Tab.2.bottom/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590956246943" />
+    <state width="1663" height="304" key="GridCell.Tab.2.bottom/0.0.1707.929@0.0.1707.929" timestamp="1590941180338" />
+    <state width="1877" height="363" key="GridCell.Tab.2.bottom/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588082893934" />
+    <state width="1663" height="304" key="GridCell.Tab.2.center" timestamp="1590956246942">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="304" key="GridCell.Tab.2.center/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590956246942" />
+    <state width="1663" height="304" key="GridCell.Tab.2.center/0.0.1707.929@0.0.1707.929" timestamp="1590941180337" />
+    <state width="1877" height="363" key="GridCell.Tab.2.center/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588082893934" />
+    <state width="1663" height="304" key="GridCell.Tab.2.left" timestamp="1590956246942">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="304" key="GridCell.Tab.2.left/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590956246942" />
+    <state width="1663" height="304" key="GridCell.Tab.2.left/0.0.1707.929@0.0.1707.929" timestamp="1590941180337" />
+    <state width="1877" height="363" key="GridCell.Tab.2.left/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588082893934" />
+    <state width="1663" height="304" key="GridCell.Tab.2.right" timestamp="1590956246943">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="304" key="GridCell.Tab.2.right/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590956246943" />
+    <state width="1663" height="304" key="GridCell.Tab.2.right/0.0.1707.929@0.0.1707.929" timestamp="1590941180338" />
+    <state width="1877" height="363" key="GridCell.Tab.2.right/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588082893934" />
+    <state width="1663" height="304" key="GridCell.Tab.3.bottom" timestamp="1590956246943">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="304" key="GridCell.Tab.3.bottom/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590956246943" />
+    <state width="1663" height="304" key="GridCell.Tab.3.bottom/0.0.1707.929@0.0.1707.929" timestamp="1590941180339" />
+    <state width="1877" height="363" key="GridCell.Tab.3.bottom/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588082893935" />
+    <state width="1663" height="304" key="GridCell.Tab.3.center" timestamp="1590956246943">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="304" key="GridCell.Tab.3.center/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590956246943" />
+    <state width="1663" height="304" key="GridCell.Tab.3.center/0.0.1707.929@0.0.1707.929" timestamp="1590941180338" />
+    <state width="1877" height="363" key="GridCell.Tab.3.center/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588082893935" />
+    <state width="1663" height="304" key="GridCell.Tab.3.left" timestamp="1590956246943">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="304" key="GridCell.Tab.3.left/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590956246943" />
+    <state width="1663" height="304" key="GridCell.Tab.3.left/0.0.1707.929@0.0.1707.929" timestamp="1590941180338" />
+    <state width="1877" height="363" key="GridCell.Tab.3.left/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588082893935" />
+    <state width="1663" height="304" key="GridCell.Tab.3.right" timestamp="1590956246943">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="304" key="GridCell.Tab.3.right/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590956246943" />
+    <state width="1663" height="304" key="GridCell.Tab.3.right/0.0.1707.929@0.0.1707.929" timestamp="1590941180339" />
+    <state width="1877" height="363" key="GridCell.Tab.3.right/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588082893935" />
+    <state width="1663" height="304" key="GridCell.Tab.4.bottom" timestamp="1590956246943">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="304" key="GridCell.Tab.4.bottom/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590956246943" />
+    <state width="1663" height="304" key="GridCell.Tab.4.bottom/0.0.1707.929@0.0.1707.929" timestamp="1590941180340" />
+    <state width="1877" height="363" key="GridCell.Tab.4.bottom/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588082893935" />
+    <state width="1663" height="304" key="GridCell.Tab.4.center" timestamp="1590956246943">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="304" key="GridCell.Tab.4.center/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590956246943" />
+    <state width="1663" height="304" key="GridCell.Tab.4.center/0.0.1707.929@0.0.1707.929" timestamp="1590941180340" />
+    <state width="1877" height="363" key="GridCell.Tab.4.center/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588082893935" />
+    <state width="1663" height="304" key="GridCell.Tab.4.left" timestamp="1590956246943">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="304" key="GridCell.Tab.4.left/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590956246943" />
+    <state width="1663" height="304" key="GridCell.Tab.4.left/0.0.1707.929@0.0.1707.929" timestamp="1590941180340" />
+    <state width="1877" height="363" key="GridCell.Tab.4.left/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588082893935" />
+    <state width="1663" height="304" key="GridCell.Tab.4.right" timestamp="1590956246943">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="304" key="GridCell.Tab.4.right/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590956246943" />
+    <state width="1663" height="304" key="GridCell.Tab.4.right/0.0.1707.929@0.0.1707.929" timestamp="1590941180340" />
+    <state width="1877" height="363" key="GridCell.Tab.4.right/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588082893935" />
+    <state x="552" y="272" key="Rider.ProjectTemplateDialog.Size" timestamp="1587834448084">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="272" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1587834448084" />
+    <state x="776" y="230" key="RiderGenerateDialog" timestamp="1588002904418">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="776" y="230" key="RiderGenerateDialog/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588002904418" />
+    <state width="861" height="472" key="XDebugger.FullValuePopup" timestamp="1590948072164">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="861" height="472" key="XDebugger.FullValuePopup/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590948072164" />
+    <state width="968" height="548" key="XDebugger.FullValuePopup/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588010008448" />
+    <state x="558" y="128" width="660" height="801" key="find.popup" timestamp="1590941763929">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state x="558" y="128" width="660" height="801" key="find.popup/0.0.1707.929@0.0.1707.929" timestamp="1590941763929" />
+    <state x="628" y="272" width="664" height="536" key="find.popup/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588005697278" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1588003881857">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1588003881857" />
+    <state x="3183" y="341" width="756" height="661" key="search.everywhere.popup" timestamp="1591097529368">
+      <screen x="2560" y="113" width="1920" height="1050" />
+    </state>
+    <state x="498" y="188" width="672" height="543" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1588354577326" />
+    <state x="554" y="202" width="672" height="584" key="search.everywhere.popup/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1590955891021" />
+    <state x="3183" y="341" width="756" height="661" key="search.everywhere.popup/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1591097529368" />
+    <state x="554" y="202" width="672" height="584" key="search.everywhere.popup/0.0.1707.929@0.0.1707.929" timestamp="1590942270055" />
+    <state x="-1422" y="188" width="672" height="543" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1536.864@-1920.0.1536.864" timestamp="1588093965769" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1590934497705" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BookStore.Infrastructure/Services/Implementations/UserService.cs</url>
+          <line>86</line>
+          <properties documentPath="$PROJECT_DIR$/BookStore.Infrastructure/Services/Implementations/UserService.cs" initialLine="86">
+            <startOffsets>
+              <option value="3121" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3166" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BookStore.Infrastructure/Services/Implementations/UserService.cs</url>
+          <line>138</line>
+          <properties documentPath="$PROJECT_DIR$/BookStore.Infrastructure/Services/Implementations/UserService.cs" initialLine="138">
+            <startOffsets>
+              <option value="4883" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4920" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BookStore.Infrastructure/Services/Implementations/UserService.cs</url>
+          <line>84</line>
+          <properties documentPath="$PROJECT_DIR$/BookStore.Infrastructure/Services/Implementations/UserService.cs" initialLine="84">
+            <startOffsets>
+              <option value="2975" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3062" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BookStore.Infrastructure/Services/Implementations/UserService.cs</url>
+          <line>62</line>
+          <properties documentPath="$PROJECT_DIR$/BookStore.Infrastructure/Services/Implementations/UserService.cs" initialLine="62">
+            <startOffsets>
+              <option value="2180" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2456" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BookStore.Infrastructure/Services/Implementations/BookService.cs</url>
+          <line>34</line>
+          <properties documentPath="$PROJECT_DIR$/BookStore.Infrastructure/Services/Implementations/BookService.cs" initialLine="32">
+            <startOffsets>
+              <option value="1167" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1443" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BookStore.Infrastructure/Services/Implementations/BookService.cs</url>
+          <line>30</line>
+          <properties documentPath="$PROJECT_DIR$/BookStore.Infrastructure/Services/Implementations/BookService.cs" initialLine="30">
+            <startOffsets>
+              <option value="1025" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1060" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BookStore.Infrastructure/Repositories/Implementations/BookRepository.cs</url>
+          <line>43</line>
+          <properties documentPath="$PROJECT_DIR$/BookStore.Infrastructure/Repositories/Implementations/BookRepository.cs" initialLine="43">
+            <startOffsets>
+              <option value="1337" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1514" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BookStore.Core/Models/Filters/BookFilter.cs</url>
+          <line>24</line>
+          <properties documentPath="$PROJECT_DIR$/BookStore.Core/Models/Filters/BookFilter.cs" initialLine="24">
+            <startOffsets>
+              <option value="814" />
+            </startOffsets>
+            <endOffsets>
+              <option value="833" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BookStore.Presentation/Controllers/Implementations/UserController.cs</url>
+          <line>45</line>
+          <properties documentPath="$PROJECT_DIR$/BookStore.Presentation/Controllers/Implementations/UserController.cs" initialLine="45">
+            <startOffsets>
+              <option value="1542" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1656" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
